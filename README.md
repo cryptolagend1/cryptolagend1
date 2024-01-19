@@ -9,7 +9,7 @@ Hi there! I'm a full stack engineer, wanna contribute to the development of your
 
 - 📫 I'm always open to collaborations, discussions, and answering questions. Feel free to reach out.
 
-Let's not just adapt to the future; let's co-create it! Together, we'll explore the endless possibilities of Web2, Web3, and Blockchain technologies. 🌟 #Web2 #Web3 #Blockchain #TechInnovation
+Let's not just adapt to the future; let's co-create it! Together, we'll explore the endless possibilities of FUll stack, AI, Web3, and Blockchain technologies. 🌟 #AI #Web3 #Blockchain #TechInnovation
 
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
