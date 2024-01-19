@@ -3,13 +3,7 @@
 
 Hi there! I'm a full stack engineer, wanna contribute to the development of your project and your company.
 
-#### 🌐 What I Bring to the Table:
 
-
-
-#### 🚀 My Contributions:
-
-- .....
 
 #### 🌍 Let's Connect:
 
