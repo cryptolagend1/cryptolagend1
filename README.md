@@ -1,9 +1,5 @@
 
-### 🚀 Full Stack engineer 🌐
-
-Hi there! I'm a full stack engineer, wanna contribute to the development of your project and your company.
-
-
+### 🚀 AI/ML/Full Stack engineer 🌐
 
 #### 🌍 Let's Connect:
 
